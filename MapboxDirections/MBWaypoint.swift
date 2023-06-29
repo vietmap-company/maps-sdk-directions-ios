@@ -135,7 +135,7 @@ open class Waypoint: NSObject, NSCopying, NSSecureCoding {
     @objc open var headingAccuracy: CLLocationDirection = -1
     
     internal var headingDescription: String {
-        return heading >= 0 && headingAccuracy >= 0 ? "\(heading.truncatingRemainder(dividingBy: 360)),\(min(headingAccuracy, 180))" : ""
+        return heading >= 0 && headingAccuracy >= 0 ? "\(String(format: "%.0f", heading.truncatingRemainder(dividingBy: 360))),\(String(format: "%.0f", min(headingAccuracy, 180)))" : ""
     }
     
     // MARK: Getting the Waypoint’s Name
