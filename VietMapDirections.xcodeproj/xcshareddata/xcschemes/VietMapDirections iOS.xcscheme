@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DA1A10AE1D00F8FF009F82FA"
-               BuildableName = "MapboxDirections.framework"
-               BlueprintName = "MapboxDirectionsMac"
-               ReferencedContainer = "container:MapboxDirections.xcodeproj">
+               BlueprintIdentifier = "DA6C9D871CAE442B00094FBC"
+               BuildableName = "VietMapDirections.framework"
+               BlueprintName = "VietMapDirections"
+               ReferencedContainer = "container:VietMapDirections.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -26,38 +26,34 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES"
       codeCoverageEnabled = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "DA6C9D871CAE442B00094FBC"
+            BuildableName = "VietMapDirections.framework"
+            BlueprintName = "VietMapDirections"
+            ReferencedContainer = "container:VietMapDirections.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <Testables>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DA1A10B71D00F8FF009F82FA"
+               BlueprintIdentifier = "DA6C9D901CAE442B00094FBC"
                BuildableName = "MapboxDirectionsTests.xctest"
-               BlueprintName = "MapboxDirectionsMacTests"
-               ReferencedContainer = "container:MapboxDirections.xcodeproj">
+               BlueprintName = "MapboxDirectionsTests"
+               ReferencedContainer = "container:VietMapDirections.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DA1A10AE1D00F8FF009F82FA"
-            BuildableName = "MapboxDirections.framework"
-            BlueprintName = "MapboxDirectionsMac"
-            ReferencedContainer = "container:MapboxDirections.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
@@ -67,14 +63,12 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DA1A10AE1D00F8FF009F82FA"
-            BuildableName = "MapboxDirections.framework"
-            BlueprintName = "MapboxDirectionsMac"
-            ReferencedContainer = "container:MapboxDirections.xcodeproj">
+            BlueprintIdentifier = "DA6C9D871CAE442B00094FBC"
+            BuildableName = "VietMapDirections.framework"
+            BlueprintName = "VietMapDirections"
+            ReferencedContainer = "container:VietMapDirections.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -85,10 +79,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DA1A10AE1D00F8FF009F82FA"
-            BuildableName = "MapboxDirections.framework"
-            BlueprintName = "MapboxDirectionsMac"
-            ReferencedContainer = "container:MapboxDirections.xcodeproj">
+            BlueprintIdentifier = "DA6C9D871CAE442B00094FBC"
+            BuildableName = "VietMapDirections.framework"
+            BlueprintName = "VietMapDirections"
+            ReferencedContainer = "container:VietMapDirections.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

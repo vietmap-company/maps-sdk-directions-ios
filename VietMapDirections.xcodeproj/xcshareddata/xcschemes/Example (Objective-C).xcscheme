@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DADD27B41E5AAAD800D31FAD"
-               BuildableName = "Example (Swift).app"
-               BlueprintName = "Example (Swift)"
-               ReferencedContainer = "container:MapboxDirections.xcodeproj">
+               BlueprintIdentifier = "DADD27CF1E5AAFFD00D31FAD"
+               BuildableName = "Example (Objective-C).app"
+               BlueprintName = "Example (Objective-C)"
+               ReferencedContainer = "container:VietMapDirections.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -26,8 +26,16 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "DADD27CF1E5AAFFD00D31FAD"
+            BuildableName = "Example (Objective-C).app"
+            BlueprintName = "Example (Objective-C)"
+            ReferencedContainer = "container:VietMapDirections.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <Testables>
          <TestableReference
             skipped = "NO">
@@ -36,27 +44,15 @@
                BlueprintIdentifier = "DA6C9D901CAE442B00094FBC"
                BuildableName = "MapboxDirectionsTests.xctest"
                BlueprintName = "MapboxDirectionsTests"
-               ReferencedContainer = "container:MapboxDirections.xcodeproj">
+               ReferencedContainer = "container:VietMapDirections.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DADD27B41E5AAAD800D31FAD"
-            BuildableName = "Example (Swift).app"
-            BlueprintName = "Example (Swift)"
-            ReferencedContainer = "container:MapboxDirections.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
@@ -67,14 +63,12 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DADD27B41E5AAAD800D31FAD"
-            BuildableName = "Example (Swift).app"
-            BlueprintName = "Example (Swift)"
-            ReferencedContainer = "container:MapboxDirections.xcodeproj">
+            BlueprintIdentifier = "DADD27CF1E5AAFFD00D31FAD"
+            BuildableName = "Example (Objective-C).app"
+            BlueprintName = "Example (Objective-C)"
+            ReferencedContainer = "container:VietMapDirections.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -86,10 +80,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DADD27B41E5AAAD800D31FAD"
-            BuildableName = "Example (Swift).app"
-            BlueprintName = "Example (Swift)"
-            ReferencedContainer = "container:MapboxDirections.xcodeproj">
+            BlueprintIdentifier = "DADD27CF1E5AAFFD00D31FAD"
+            BuildableName = "Example (Objective-C).app"
+            BlueprintName = "Example (Objective-C)"
+            ReferencedContainer = "container:VietMapDirections.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
