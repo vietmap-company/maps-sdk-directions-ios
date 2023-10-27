@@ -36,6 +36,6 @@ Pod::Spec.new do |s|
   s.module_name = "VietMapDirections"
   s.swift_version = "4.0"
 
-  s.dependency "VietMapPolyline", "~> 1.0.5"
+  s.dependency "VietMapPolyline", "~> 1.0.6"
 
 end
