@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   s.name         = "VietMapDirections.swift"
-  s.version      = "1.0.0"
+  s.version      = "2.0.1"
   s.summary      = "VietMap Directions API wrapper for Swift and Objective-C."
   s.homepage          = 'https://github.com/vietmap-company'
   s.documentation_url = "https://maps.vietmap.vn/docs/sdk-mobile/sdk-ios/sdk-ios-ver2.0/"
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.source       = { :git => "https://github.com/vietmap-company/maps-sdk-directions-ios.git", :tag => "2.0.0" }
+  s.source       = { :git => "https://github.com/vietmap-company/maps-sdk-directions-ios.git", :tag => "#{s.version.to_s}" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
