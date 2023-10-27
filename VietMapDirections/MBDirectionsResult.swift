@@ -1,4 +1,4 @@
-import Polyline
+import VietMapPolyline
 
 /**
  A `DirectionsResult` represents a result returned from either the Mapbox Directions service.

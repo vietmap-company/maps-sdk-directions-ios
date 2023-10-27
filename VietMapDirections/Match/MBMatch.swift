@@ -1,4 +1,4 @@
-import Polyline
+import VietMapPolyline
 
 /**
  A `Match` object defines a single route that was created from a series of points that were matched against a road network.
