@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   s.name         = "VietMapDirections.swift"
-  s.version      = "2.0.1"
+  s.version      = "2.0.2"
   s.summary      = "VietMap Directions API wrapper for Swift and Objective-C."
   s.homepage          = 'https://github.com/vietmap-company'
   s.documentation_url = "https://maps.vietmap.vn/docs/sdk-mobile/sdk-ios/sdk-ios-ver2.0/"
@@ -36,6 +36,6 @@ Pod::Spec.new do |s|
   s.module_name = "VietMapDirections"
   s.swift_version = "4.0"
 
-  s.dependency "VietMapPolyline", "~> 1.0.4"
+  s.dependency "VietMapPolyline", "~> 1.0.5"
 
 end
